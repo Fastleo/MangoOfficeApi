@@ -1,0 +1,15 @@
+{
+    "name": "fastleo/mango-office-api",
+    "description": "Lite api Mango-Office",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {
+            "Fastleo\\MangoOfficeApi\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3"
+    }
+}
